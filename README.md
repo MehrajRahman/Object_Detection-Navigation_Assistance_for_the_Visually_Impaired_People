@@ -165,7 +165,9 @@ We have made our experimental pipelines publicly available on Kaggle to ensure r
 
 ##  Supervision
 **Dr. Mohammad Rifat Ahmmad Rashid**
+
 *Associate Professor*
+
 Department of Computer Science & Engineering
 East West University
 
@@ -173,6 +175,7 @@ East West University
 * **Md. Robiul Islam** 
 * **Sunzid Ashraf** 
 * **Md. Mahamudur Rahman Maharaz** 
+
 *Department of Computer Science and Engineering, East West University.*
 
 ---
