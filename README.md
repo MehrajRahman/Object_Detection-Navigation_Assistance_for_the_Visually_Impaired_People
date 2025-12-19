@@ -3,7 +3,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3100/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Paper Status](https://img.shields.io/badge/Paper-Under%20Review-green)](https://arxiv.org/)
+[![Paper Status](https://img.shields.io/badge/Paper-On%20Going-green)](https://arxiv.org/)
 
 > **A comparative study of YOLOv12 baselines and Self-Supervised Learning (SimCLR, DINOv3) for robust urban object detection with limited annotations.**
 
@@ -170,9 +170,9 @@ Department of Computer Science & Engineering
 East West University
 
 ## Collaborators
-* **Md. Mahamudur Rahman Maharaz** 
 * **Md. Robiul Islam** 
 * **Sunzid Ashraf** 
+* **Md. Mahamudur Rahman Maharaz** 
 *Department of Computer Science and Engineering, East West University.*
 
 ---
