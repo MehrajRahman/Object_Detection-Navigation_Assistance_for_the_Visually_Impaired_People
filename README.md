@@ -162,11 +162,17 @@ We have made our experimental pipelines publicly available on Kaggle to ensure r
 | **Self-SL** | **SimCLR** (Contrastive Learning) | [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue.svg)](https://www.kaggle.com/code/mahmudurrahman00627/cse475-self-sl-simclr-g1) |
 | **Self-SL** | **DINOv3** (Self-Distillation) | [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue.svg)](https://www.kaggle.com/code/robiulislamistaken2/cse475-self-sl-dinov3-g1) |
 
-## 👥 Collaborators
-* **Md. Mahamudur Rahman Maharaz** (Lead Researcher)
-* **Md. Robiul Islam** (Model Optimization & YOLO Architecture)
-* **Sunzid Ashraf** (Data Engineering & STAC Implementation)
 
+##  Supervision
+**Dr. Mohammad Rifat Ahmmad Rashid**
+*Associate Professor*
+Department of Computer Science & Engineering
+East West University
+
+## Collaborators
+* **Md. Mahamudur Rahman Maharaz** 
+* **Md. Robiul Islam** 
+* **Sunzid Ashraf** 
 *Department of Computer Science and Engineering, East West University.*
 
 ---
