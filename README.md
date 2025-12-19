@@ -51,7 +51,7 @@ The **Urban Navigation Dataset** captures the chaotic nature of South Asian traf
     * **Test:** 10%
 
 ---
-## 📊 Performance & Results
+##  Performance & Results
 
 We evaluated our models on the held-out test set. **DINOv3 (Self-Supervised)** demonstrated the strongest generalization capabilities, achieving an **mAP@0.50 of 0.807**, significantly outperforming the SimCLR approach (0.621).
 
@@ -87,7 +87,7 @@ The STAC model shows stable convergence across Box and Class loss metrics, valid
 
 ![STAC Loss Curves](assets/stackll.jpeg)
 
-## 🚀 Installation & Usage
+##  Installation & Usage
 
 ### 1. Clone Repository
 ```bash
@@ -149,7 +149,7 @@ To validate our hyperparameters, we conducted an ablation study on the **Pseudo-
 * **Experiment:** We compared thresholds of $\tau=0.7$ vs. $\tau=0.9$.
 * **Finding:** Lower thresholds ($\tau=0.7$) introduced significant label noise (false positives), while $\tau=0.9$ provided the optimal balance of high-quality pseudo-labels and sufficient data volume for the Student model.
 
-## 📓 Notebooks & Implementation
+##  Notebooks & Implementation
 
 We have made our experimental pipelines publicly available on Kaggle to ensure reproducibility.
 
