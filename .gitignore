@@ -1,0 +1,16 @@
+# Ignore Python Bytecode
+# Ignore Dataset
+data/
+*.zip
+*.tar.gz
+
+# Ignore Model Weights (too large for free GitHub)
+*.pt
+*.pth
+*.onnx
+models/
+
+# Ignore System Files
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
