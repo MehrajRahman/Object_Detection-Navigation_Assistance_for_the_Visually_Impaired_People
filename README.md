@@ -93,7 +93,7 @@ The STAC model shows stable convergence across Box and Class loss metrics, valid
 ```bash
 git clone [https://github.com/MehrajRahman/Object_Detection-Navigation_Assistance_for_the_Visually_Impaired_People.git](https://github.com/MehrajRahman/Object_Detection-Navigation_Assistance_for_the_Visually_Impaired_People)
 cd CSE475-NavAssist-ObjectDetection
-
+```
 
 ##  Repository Structure
 
